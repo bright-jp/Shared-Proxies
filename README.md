@@ -1,99 +1,99 @@
 # Bright Data's Shared Proxies
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/solutions/shared-proxies) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/solutions/shared-proxies) 
 
-## Overview
-Enjoy seamless scraping with Bright Data's [Shared Proxies](https://brightdata.com/solutions/shared-proxies), offering percise targeting, exceptional stasbility, and lightning-fast response times.
+## 概要
+Bright Dataの[Shared Proxies](https://brightdata.jp/solutions/shared-proxies)でシームレスなスクレイピングを実現できます。精密なターゲティング、優れた安定性、そして超高速のレスポンスタイムを提供します。
 
-- **100M+ proxy IPs**
-- **Sticky and rotating sessions**
-- **99.95% success rate**
-- **HTTP(S) & SOCKS5 support**
-- **Geo-location targeting (Free)**
+- **100M+ プロキシIP**
+- **Stickyおよびローテーティングセッション**
+- **99.95% 成功率**
+- **HTTP(S) & SOCKS5 サポート**
+- **ジオロケーションターゲティング（無料）**
 
-## Types of Proxies
-Bright Data is the industry leader for proxies, serving over 20,000 customers. 
+## プロキシの種類
+Bright Dataはプロキシ業界のリーダーであり、20,000社以上のお客様に提供しています。 
 
-**[**Residential proxies**](https://brightdata.com/proxy-types/residential-proxies)** - Enjoy effortless scraping with the fastest residential proxies in the industry. Take advantage of accurate targeting and unparalleled reliability.
+**[**レジデンシャルプロキシ**](https://brightdata.jp/proxy-types/residential-proxies)** - 業界最速のレジデンシャルプロキシで、手間なくスクレイピングを行えます。正確なターゲティングと比類のない信頼性を活用できます。
   
-- **72M residential IPs**
-- **HTTP(S)/ & SOCKS5 supported**
-- **Proxy IPs from all 195 countries**
+- **72M レジデンシャルIP**
+- **HTTP(S)/ & SOCKS5 対応**
+- **195か国すべてのプロキシIP**
 
-**[**Datacenter proxies**](https://brightdata.com/proxy-types/datacenter-proxies)** - Effortlessly scale anonymous data collection using the fastest and most dependable datacenter IP pool.
+**[**データセンタープロキシ**](https://brightdata.jp/proxy-types/datacenter-proxies)** - 最速かつ最も信頼性の高いデータセンターIPプールを使用して、匿名のデータ収集を簡単にスケールできます。
   
-- **770,000 datacenter IPs**
-- **0.24s resonse time**
-- **Pay-Per-IP or bandwidth usage**
+- **770,000 データセンターIP**
+- **0.24s レスポンスタイム**
+- **IP単位課金または帯域幅使用量課金**
 
-**[**ISP proxies**](https://brightdata.com/proxy-types/isp-proxies)** - Highest quality static residential proxies that you can keep for life.
+**[**ISPプロキシ**](https://brightdata.jp/proxy-types/isp-proxies)** - 生涯保持できる最高品質のスタティックレジデンシャルプロキシです。
   
-- **770,000 static residential IPs**
-- **Pay-per-IP or by bandwidth usage**
-- **Fastest response time in the industry**
+- **770,000 スタティックレジデンシャルIP**
+- **IP単位課金または帯域幅使用量課金**
+- **業界最速のレスポンスタイム**
 
-**[**Mobile proxies**](https://brightdata.com/proxy-types/mobile-proxies)** - View the web as real mobile users do with mobile IPs from around the globe.
+**[**モバイルプロキシ**](https://brightdata.jp/proxy-types/mobile-proxies)** - 世界中のモバイルIPで、実際のモバイルユーザーと同じようにWebを閲覧できます。
   
-- **7M mobile proxy IPs**
-- **3G/4G/5G mobile IPs**
-- **24/7 global support**
+- **7M モバイルプロキシIP**
+- **3G/4G/5G モバイルIP**
+- **24/7 グローバルサポート**
 
-## Key Features
-- **Global Coverage**: Shared proxies available in [195 countries](https://brightdata.com/locations).
-- **Poular proxy IP locations**
-   - [**United States proxy**](https://brightdata.com/locations/united-states)
-   - [**China proxy**](https://brightdata.com/locations/cn)
-   - [**UK proxy**](https://brightdata.com/locations/gb)
-   - [**Germany proxy**](https://brightdata.com/locations/de)
-   - [**Canada proxy**](https://brightdata.com/locations/ca)
-   - [**India proxy**](https://brightdata.com/locations/in)
-- **High Success Rates**: Achieve up to 99.95% success in your scraping projects.
-- **Fast Response**: Average response time of ~0.7 seconds.
-- **Ethically Sourced**: All proxies are sourced with explicit user consent.
-- **Unlimited Concurrent Sessions**: Scale your operations without limitations.
+## 主な機能
+- **グローバルカバレッジ**: Shared Proxiesは[195か国](https://brightdata.jp/locations)で利用可能です。
+- **人気のプロキシIPロケーション**
+   - [**United States proxy**](https://brightdata.jp/locations/united-states)
+   - [**China proxy**](https://brightdata.jp/locations/cn)
+   - [**UK proxy**](https://brightdata.jp/locations/gb)
+   - [**Germany proxy**](https://brightdata.jp/locations/de)
+   - [**Canada proxy**](https://brightdata.jp/locations/ca)
+   - [**India proxy**](https://brightdata.jp/locations/in)
+- **高い成功率**: スクレイピングプロジェクトで最大99.95%の成功率を達成できます。
+- **高速レスポンス**: 平均レスポンスタイムは約0.7秒です。
+- **倫理的に取得**: すべてのプロキシは、ユーザーの明示的な同意のもとで提供されています。
+- **無制限の同時接続セッション**: 制限なく運用をスケールできます。
 
-Sign up and receive a dollar-for-dollar match on your first deposit, up to $500!
+サインアップすると、初回入金に対して最大$500まで1ドル単位で同額マッチングを受け取れます！
 
-## Getting Started with Shared Proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Use our APIs or Control Panel to manage IPs and configurations.
-3. **Supported Languages**: Quick start examples provided for Python, Java, C#, Node.js, and Shell.
+## Shared Proxiesの始め方
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: APIまたはControl Panelを使用して、IPと設定を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell向けのクイックスタート例が用意されています。
 
-## Integrations
-Our Shared Proxies integrate with popular tools and frameworks, including:
+## 統合
+Shared Proxiesは、以下を含む人気のツールやフレームワークと統合できます。
 
-- [**Puppeteer**](https://brightdata.com/integration/puppeteer)
-- [**Selenium**](https://brightdata.com/integration/selenium)
-- [**Playwright**](https://brightdata.com/integration/playwright)
-- [**AdsPower**](https://brightdata.com/integration/adspower)
-- [**MultiLogin**](https://brightdata.com/integration/multilogin)
-- [**All proxy integrations**](https://brightdata.com/integration)
+- [**Puppeteer**](https://brightdata.jp/integration/puppeteer)
+- [**Selenium**](https://brightdata.jp/integration/selenium)
+- [**Playwright**](https://brightdata.jp/integration/playwright)
+- [**AdsPower**](https://brightdata.jp/integration/adspower)
+- [**MultiLogin**](https://brightdata.jp/integration/multilogin)
+- [**All proxy integrations**](https://brightdata.jp/integration)
 
-## Use Cases
-Explore how businesses leverage Shared Proxies:
+## ユースケース
+企業がShared Proxiesをどのように活用しているかをご確認ください。
 
-- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and reviews.
-- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends.
-- [**Real Estate**](https://brightdata.com/use-cases/real-estate): Gather market data.
-- [**SEO**](https://brightdata.com/use-cases/serp): Track SERP results.
-- [**Financial Services**](https://brightdata.com/use-cases/financial): Analyze trends securely.
+- [**eCommerce**](https://brightdata.jp/use-cases/ecommerce): 価格とレビューを追跡します。
+- [**Social Media**](https://brightdata.jp/use-cases/social-media-for-marketing): トレンドをモニタリングします。
+- [**Real Estate**](https://brightdata.jp/use-cases/real-estate): 市場データを収集します。
+- [**SEO**](https://brightdata.jp/use-cases/serp): SERP結果を追跡します。
+- [**Financial Services**](https://brightdata.jp/use-cases/financial): トレンドを安全に分析します。
 
 ## FAQ
 
-### What is a shared proxy?
-Shared Proxies are IPs that are shared across multiple users. They are a cost-efficient option when you don't require IP exclusivity.
+### shared proxyとは何ですか？
+Shared Proxiesは、複数のユーザー間で共有されるIPです。IPの専有が不要な場合に、コスト効率の高い選択肢となります。
 
-### Can you use shared proxies for multiple sessions?
-Yes, you can use the same shared proxy for multiple sessions by using the session persistence feature.
+### shared proxiesを複数セッションで使用できますか？
+はい、セッションの永続化機能を使用することで、同じshared proxyを複数セッションで使用できます。
 
-### What types of plans are available? 
-Bright Data offers flexible pricing models, including:
+### どのようなプランがありますか？ 
+Bright Dataは、以下を含む柔軟な料金モデルを提供しています。
 
-- **Pay-As-You-Go**: Fixed rate per GB.
-- **Subscription Plans**: Monthly, yearly, and custom options.
+- **Pay-As-You-Go**: GBあたりの固定料金です。
+- **Subscription Plans**: 月額、年額、カスタムのオプションがあります。
 
-### Are Bright Data's Shared Proxies compliant and safe to use?
-Bright Data’s proxies are ethically sourced, and we comply with all relevant data protection laws, including GDPR and CCPA.
+### Bright DataのShared Proxiesは準拠しており、安全に使用できますか？
+Bright Dataのプロキシは倫理的に取得されており、GDPRおよびCCPAを含む関連するすべてのデータ保護法に準拠しています。
 
-### Is there dedicated support available?
-Our dedicated support team is available 24/7 to assist you. Contact us to discuss your needs and maximize the benefits of our Dedicated proxy network.
+### 専任サポートは利用できますか？
+専任のサポートチームが24/7で支援します。ニーズについてご相談いただき、Dedicated proxy networkのメリットを最大化するために、ぜひお問い合わせください。
